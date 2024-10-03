@@ -15,8 +15,8 @@ Voy a dejar unos pocos ejemplos de su utilización:
 
 |Código|Explicación|
 |:------------:|:------------:|
-|p {           
+|p {           |
   color: red;
-}              |
+}               cambiamos el color de texto en rojo|
 |
 |
