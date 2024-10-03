@@ -20,4 +20,4 @@ Voy a dejar unos pocos ejemplos de su utilización:
 html { background-color: #00539f; }| Si buscamos el código de cierto color, podremos cambiar el trasfonde de nuestra página|
 
  ### Estructura de CSS 
- [CSS](https://github.com/aitorruedaulloa/SMX2-M8UF1A1-CSS/blob/main/CSS.png)
+ ![CSS](https://github.com/aitorruedaulloa/SMX2-M8UF1A1-CSS/blob/main/CSS.png)
