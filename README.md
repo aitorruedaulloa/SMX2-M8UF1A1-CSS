@@ -16,7 +16,7 @@ Voy a dejar unos pocos ejemplos de su utilización:
 |Código|Explicación|
 |:------------------------:|:------------:|
 |p { color: red; }         | Lo podemos utlizar para cambiar nuestro texto a rojo, o otro color que queramos|
-|font-size: 60px;          | Según cuantos px (pixeles de grandaria) pongamos más grande se verá el texto|
+|h1 { font-size: 60px;}       | Según cuantos px (pixeles de grandaria) pongamos más grande se verá el título en este caso **h1**|
 html { background-color: #00539f; }| Si buscamos el código de cierto color, podremos cambiar el trasfonde de nuestra página|
 
            
