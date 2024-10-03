@@ -22,7 +22,7 @@ html { background-color: #00539f; }| Si buscamos el código de cierto color, podr
  ### Estructura de CSS 
  ![CSS](https://github.com/aitorruedaulloa/SMX2-M8UF1A1-CSS/blob/main/CSS.png)
 
- Selector: Le indican a HTML cómo aplicar cierta regla
- Property: tipo de dato
- property value:suele ser una palabra clave que nos da especificación del tipo de dato
- Declaration: es el conjunto de property + property value
+1. Selector: Le indican a HTML cómo aplicar cierta regla
+2. Property: tipo de dato
+3. property value:suele ser una palabra clave que nos da especificación del tipo de dato
+4. Declaration: es el conjunto de property + property value
